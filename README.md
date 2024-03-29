@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nadeem-elbarbari
+- 👋 Hi, I’m Nadeem Ehab
 - 👀 I’m interested in Programing, Anime, Gaming, Translation, Reading
 - 🌱 I’m currently learning Frontend and Backend
 - 💞️ I’m looking to collaborate on Interesting and Purposeful projects 
